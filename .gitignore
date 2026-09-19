@@ -1,0 +1,29 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Secrets and config
+.env
+.streamlit/secrets.toml
+
+# Dataset (large, downloadable from Hugging Face)
+dataset/
+
+# Logs
+*.log
+
+# Editors
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
