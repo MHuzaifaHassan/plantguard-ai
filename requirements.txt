@@ -1,7 +1,5 @@
-tensorflow
-streamlit
+streamlit>=1.39
+tensorflow==2.21.0
+keras==3.15.1
 numpy
 pillow
-matplotlib
-scikit-learn
-datasets
