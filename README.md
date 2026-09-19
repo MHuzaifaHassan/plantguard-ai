@@ -441,9 +441,3 @@ The project currently includes:
 * A Streamlit web application.
 
 Right now it works as a prototype for tomato leaf disease classification.
-
----
-
-## 19. Disclaimer
-
-This project is for educational and demonstration purposes. The model's predictions may not always be right and should not be treated as a confirmed agricultural diagnosis. For crop disease management decisions, please consult appropriate agricultural expertise.
